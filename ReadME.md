@@ -170,3 +170,11 @@ Notes:
    30 → delete messages older than 30 days\
    0 → delete all messages
 - Set `DRY_RUN = True` to see what would be deleted without actually deleting
+
+> [!CAUTION]
+> Use responsibly. Deleted messages are permanent. The author is not responsible for data loss.
+
+Made with ❤️ in Kuala Lumpur.
+
+### License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
