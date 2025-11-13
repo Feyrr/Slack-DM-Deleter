@@ -1,4 +1,4 @@
-### Slack DM Message Deleter (Earliest Messages First)
+### Slack DM Deleter (Earliest Messages First)
 
 A Python script to delete your own messages in a Slack DM safely.
 Deletes messages **earliest first** while handling rate limits, batching, optional date filtering, and dry-run mode.
